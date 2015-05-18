@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-Note: Only supported on Ruby 2.0. Gathering stack traces is too slow on earlier versions of Ruby or JRuby
+Note: Only supported on Ruby 2.0. Gathering stack traces is too slow on earlier versions of Ruby or JRuby. Will currently not work on windows.
 
 ```ruby
 
